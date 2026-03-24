@@ -52,4 +52,5 @@ This project demonstrates how data analysis can be used to extract meaningful in
 - `superstore.csv` → Dataset
 
 ## 🔗 Connect with me
-[Add your LinkedIn profile link here]
+
+https://www.linkedin.com/in/harshan-balakrishnan-770310369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
